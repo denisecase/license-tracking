@@ -24,6 +24,13 @@ Amazon Web Services (AWS) Always Free
 
 Does NOT include EC2 or S3 (12-mo trials only)
 
+ArangoDB (graph database)
+
+- Apache 2.0
+- https://www.arangodb.com/
+- https://github.com/arangodb/arangodb/blob/devel/LICENSE
+- https://www.arangodb.com/data-privacy-policy/
+
 Autopsy / The Sleuth Kit, plugins
 
 - Apache 2.0
