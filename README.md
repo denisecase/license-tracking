@@ -5,32 +5,37 @@ Tracking the licenses of useful tools and languages
 
 ## Free and Open-Source
 
-Apache Beam
-
-- Apache 2.0
-- https://github.com/apache/beam/blob/master/LICENSE
-
-Apache Kafka
-
-- Apache 2.0
-- https://github.com/apache/kafka/blob/trunk/LICENSE
-
-Apache Spark
-
-- Apache 2.0
-- https://github.com/apache/spark/blob/master/LICENSE
-
 Autopsy / The Sleuth Kit, plugins
 
 - Apache 2.0
 - https://www.sleuthkit.org/autopsy/licenses.php
 
-BinderHub Hosting
+Beam (open-source unified programming model)
+
+- Apache 2.0
+- https://github.com/apache/beam/blob/master/LICENSE
+
+BinderHub Hosting (Host Jupyter Notebooks)
 
 - BSD 3-Clause License
 - https://github.com/jupyterhub/binderhub/blob/main/LICENSE
 
-Git 
+Delta Lake (open-source storage framework)
+
+- Apache 2.0
+- https://github.com/delta-io/delta/blob/master/LICENSE.txt
+
+Docker Personal / Desktop (containerization)
+
+- https://www.docker.com/pricing/faq/
+- Free Docker Desktop for personal, open-source, and education
+
+Flink (compute engine)
+
+- Apache 2.0
+- https://github.com/apache/flink/blob/master/LICENSE
+
+Git (version control system)
 
  - GNU General Public License version 2.0
  - https://git-scm.com/about/free-and-open-source
@@ -59,6 +64,11 @@ Julia
 Imhex hex editor
  
  - https://github.com/WerWolv/ImHex/blob/master/LICENSE
+
+Kafka
+
+- Apache 2.0
+- https://github.com/apache/kafka/blob/trunk/LICENSE
  
 Neo4j Community Edition
 
@@ -95,6 +105,11 @@ Redis (in-memory data store)
 
 - Three clause BSD license
 - https://redis.io/docs/about/license/
+
+Spark (compute engine)
+
+- Apache 2.0
+- https://github.com/apache/spark/blob/master/LICENSE
 
 SQLite (file-based SQL datastore)
 
