@@ -51,7 +51,7 @@ Python / pip
 
 RabbitMQ 
 
-– Mozilla Public License Version 2
+- Mozilla Public License Version 2.0
 - https://www.rabbitmq.com/mpl.html
 
 TortoiseGit 
