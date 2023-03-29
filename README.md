@@ -34,6 +34,11 @@ Git
 
  - GNU General Public License version 2.0
  - https://git-scm.com/about/free-and-open-source
+
+Great Expectations (data quality platform)
+
+- GX OSS (Open-Source)
+- [Great Expectations GX OSS](https://greatexpectations.io/gx-oss)
  
 Julia 
 
@@ -54,10 +59,21 @@ PowerShell Core (cross-platform command line shell and scripting language)
 - MIT
 - https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt
 
-Python / pip
+Python 3.11
 
-- Version 3.4+
-- https://www.python.org/download/releases/3.4.0/license/
+- Python Software Foundation ("PSF") License
+- https://docs.python.org/3/license.html
+
+Python Examples
+
+- Starting with Python 3.8.6, examples, recipes, and other code in the documentation are dual-licensed
+- under the PSF License Agreement and the 
+- Zero-Clause BSD license - https://docs.python.org/3/license.html#bsd0
+
+Python pip (package manager for Python)
+
+- MIT
+- https://github.com/pypa/pip/blob/main/LICENSE.txt
 
 RabbitMQ message broker
 
@@ -68,6 +84,11 @@ Redis (in-memory data store)
 
 - Three clause BSD license
 - https://redis.io/docs/about/license/
+
+SQLite (file-based SQL datastore)
+
+- Public Domain
+- https://www.sqlite.org/copyright.html
 
 TortoiseGit (Windows File Explorer git integration)
 
@@ -118,6 +139,11 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 
 ## Proprietary
 
+Great Expectations 
+
+- https://greatexpectations.io/
+- https://greatexpectations.io/static/fa9ec1c9941e054bd616fff12d59dee3/GX_Master_Subscription_Agreement_Template_-01_24_2023-.pdf
+
 Neo4J Non-Community Edition
 
 - https://neo4j.com/licensing/
@@ -132,3 +158,4 @@ WinHex
 ## See Also
 
 - [Open Source Licensing - Crash Course](https://github.com/readme/guides/open-source-licensing)
+- [Protect Yourself from Litigation due to Unexpected Python License Agreements](https://blog.inedo.com/python/python-package-licenses/)
