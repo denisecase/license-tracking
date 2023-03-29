@@ -162,6 +162,7 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 
 -	beautifulsoup4 - data from web pages
 - bokeh - BSD-3 - https://github.com/bokeh/bokeh/blob/branch-3.2/LICENSE.txt
+- delta-lake - Apache 2.0 - https://github.com/delta-io/delta-rs/blob/main/LICENSE.txt
 -	dweepy - device feeds
 -	geopy - geographic information
 -	imageio - work with images
