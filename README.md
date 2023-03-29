@@ -82,6 +82,7 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 -	numpy - 1D Arrays
 -	pandas - 2D panel / sheet data - https://github.com/pandas-dev/pandas/blob/main/LICENSE
 -	pathlib - working with file system paths
+- polars - fast DataFrame library for Rust and Python - MIT - https://github.com/pola-rs/polars/blob/master/LICENSE
 -	prospector - static code analysis
 -	pymongo - work with noSQL datastore MongoDB and Atlas
 -	pyspark - work with Apache Spark
