@@ -5,6 +5,25 @@ Tracking the licenses of useful tools and languages
 
 ## Free and Open-Source
 
+Amazon Web Services (AWS) Always Free
+
+- https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all
+- DynamoDB NoSQL database
+- Lambda serverless functions
+- SNS push messaging
+- CloudFront content delivery
+- CloudWatch monitoring
+- Cognito identity services
+- SES customer engagement
+- SQS scaleable queue for app integration
+- SWF task and state management service for app integration
+- CodeBuild
+- CodeCommit
+- CodePipeline (1 per month)
+- Glue data catalog
+
+Does NOT include EC2 or S3 (12-mo trials only)
+
 Autopsy / The Sleuth Kit, plugins
 
 - Apache 2.0
