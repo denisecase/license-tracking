@@ -21,8 +21,7 @@ Amazon Web Services (AWS) Always Free
 - CodeCommit
 - CodePipeline (1 per month)
 - Glue data catalog
-
-Does NOT include EC2 or S3 (12-mo trials only)
+- Does NOT include EC2 or S3 (12-mo trials only)
 
 ArangoDB Community Edition (graph database)
 
@@ -47,7 +46,7 @@ BinderHub Hosting (Host Jupyter Notebooks)
 - BSD 3-Clause License
 - https://github.com/jupyterhub/binderhub/blob/main/LICENSE
 
-Delta Lake (open-source storage framework)
+Delta Lake (open-source storage framework for lakehouse architecture)
 
 - Apache 2.0
 - https://github.com/delta-io/delta/blob/master/LICENSE.txt
