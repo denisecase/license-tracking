@@ -35,6 +35,17 @@ Git
  - GNU General Public License version 2.0
  - https://git-scm.com/about/free-and-open-source
 
+Grafana Open Source Software
+
+- Apache 2.0
+- https://grafana.com/oss/
+
+Grafana Cloud - Free Forever Cloud
+
+- https://grafana.com/products/cloud/
+- Terms & Conditions - https://grafana.com/legal/terms/?pg=play&plcmt=home
+- Master Services Agreement - https://grafana.com/legal/msa/?pg=play&plcmt=home
+
 Great Expectations (data quality platform)
 
 - GX OSS (Open-Source)
