@@ -25,6 +25,11 @@ Autopsy / The Sleuth Kit, plugins
 - Apache 2.0
 - https://www.sleuthkit.org/autopsy/licenses.php
 
+BinderHub Hosting
+
+- BSD 3-Clause License
+- https://github.com/jupyterhub/binderhub/blob/main/LICENSE
+
 Git 
 
  - GNU General Public License version 2.0
@@ -38,8 +43,13 @@ Julia
 Imhex hex editor
  
  - https://github.com/WerWolv/ImHex/blob/master/LICENSE
+ 
+Neo4j Community Edition
 
-PowerShell Core
+- GPLv3
+- https://neo4j.com/licensing/
+
+PowerShell Core (cross-platform command line shell and scripting language)
 
 - MIT
 - https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt
@@ -49,18 +59,23 @@ Python / pip
 - Version 3.4+
 - https://www.python.org/download/releases/3.4.0/license/
 
-RabbitMQ 
+RabbitMQ message broker
 
 - Mozilla Public License Version 2.0
 - https://www.rabbitmq.com/mpl.html
 
-TortoiseGit 
+Redis (in-memory data store)
+
+- Three clause BSD license
+- https://redis.io/docs/about/license/
+
+TortoiseGit (Windows File Explorer git integration)
 
  - GNU General Public License version 2.0
  - https://tortoisegit.org/about/ 
  - https://www.gnu.org/licenses/old-licenses/gpl-2.0
 
-VS Code 
+VS Code (light-weight cross-platform code editor)
 
 - https://github.com/microsoft/vscode/blob/main/LICENSE.txt
 
@@ -73,6 +88,7 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 ## Open-Source Python External Libraries
 
 -	beautifulsoup4 - data from web pages
+- bokeh - BSD-3 - https://github.com/bokeh/bokeh/blob/branch-3.2/LICENSE.txt
 -	dweepy - device feeds
 -	geopy - geographic information
 -	imageio - work with images
@@ -82,6 +98,8 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 -	numpy - 1D Arrays
 -	pandas - 2D panel / sheet data - https://github.com/pandas-dev/pandas/blob/main/LICENSE
 -	pathlib - working with file system paths
+- pika - RabbitMQ interface - BSD-3 - https://pypi.org/project/pika/
+- plotly - MIT - https://plotly.com/python/is-plotly-free/
 - polars - fast DataFrame library for Rust and Python - MIT - https://github.com/pola-rs/polars/blob/master/LICENSE
 -	prospector - static code analysis
 -	pymongo - work with noSQL datastore MongoDB and Atlas
@@ -100,6 +118,17 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 
 ## Proprietary
 
+Neo4J Non-Community Edition
+
+- https://neo4j.com/licensing/
+
 WinHex
 
 - https://www.x-ways.net/winhex/order.html
+
+
+-----
+
+## See Also
+
+- [Open Source Licensing - Crash Course](https://github.com/readme/guides/open-source-licensing)
