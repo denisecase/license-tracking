@@ -101,6 +101,11 @@ Neo4j Community Edition
 - GPLv3
 - https://neo4j.com/licensing/
 
+Notepad++ "Notepad plus plus" (text editor)
+
+- GNU GENERAL PUBLIC LICENSE
+- https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/LICENSE
+
 PowerShell Core (cross-platform command line shell and scripting language)
 
 - MIT
