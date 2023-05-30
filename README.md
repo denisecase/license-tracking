@@ -163,19 +163,28 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 
 -----
 
+## Open-Source Python Standard Library
+
+- pathlib - for working with paths (e.g. a data subfolder)
+
+-----
+
 ## Open-Source Python External Libraries
 
 -	beautifulsoup4 - data from web pages
-- bokeh - BSD-3 - https://github.com/bokeh/bokeh/blob/branch-3.2/LICENSE.txt
+- bokeh - interactive charts 🌐 📊 BSD-3 - https://github.com/bokeh/bokeh/blob/branch-3.2/LICENSE.txt
 - delta-lake - Apache 2.0 - https://github.com/delta-io/delta-rs/blob/main/LICENSE.txt
 -	dweepy - device feeds
 -	geopy - geographic information
 -	imageio - work with images
--	jupyterlab - very popular web-based analytics environment
--	matplotlib - custom charts
--	nltk - natural language toolkit
+-	jinja2 - templating used by Shiny 🌐
+-	jupyterlab - very popular web-based analytics environment ⭐
+-	keras - neural networks machine learning, [datasets](https://keras.io/api/datasets/)
+-	matplotlib - custom charts ⭐ 💹
+-	nltk - natural language toolkit, [datasets](https://www.nltk.org/data.html)
 -	numpy - 1D Arrays
--	pandas - 2D panel / sheet data - https://github.com/pandas-dev/pandas/blob/main/LICENSE
+-	openpyxl - work with Excel files 📂
+-	pandas - 2D panel / sheet data ⭐ https://github.com/pandas-dev/pandas/blob/main/LICENSE
 -	pathlib - working with file system paths
 - pika - RabbitMQ interface - BSD-3 - https://pypi.org/project/pika/
 - plotly - MIT - https://plotly.com/python/is-plotly-free/
@@ -183,15 +192,19 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 -	prospector - static code analysis
 -	pymongo - work with noSQL datastore MongoDB and Atlas
 -	pyspark - work with Apache Spark
--	scikit-learn - machine learning.
+-	scikit-learn - machine learning 
 -	scipy - statistics and scientific computing
--	seaborn - quick charts
+-	seaborn - quick charts, [datasets]((https://github.com/mwaskom/seaborn-data)) ⭐ 💹
+-	shiny - interactive apps 🌐 📊
+-	shinyswatch - themes for Shiny apps 🌐
 -	spacy - natural language processing
--	sqlite3 - work with relational databases and SQL
+-	sqlite3 - work with relational databases and SQL ⭐
+-	statsmodels - modeling, [datasets](https://www.statsmodels.org/stable/datasets/index.html)
 -	tensorflow - machine learning
 -	textatistic - readability metrics
 -	textblob - text processing
 -	wordcloud - visualize frequency of text
+-	xlsxwriter - writing formatted Excel files 📂
 
 -----
 
