@@ -169,6 +169,16 @@ VS Code Extensions (Python, PowerShell, Remote Repositories)
 
 -----
 
+## Open-Source Python Developer Tools
+
+- pip - package manager
+- wheel - wheel manager for safe, small, fast installations
+- black - formatter
+- ruff - linter
+- pyright - type checker
+
+-----
+
 ## Open-Source Python External Libraries
 
 -	beautifulsoup4 - data from web pages
